@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import './search-panel.css';
-import ButtonFilter from '../button-filter';
 
 
 export default class SearchPanel extends Component {
