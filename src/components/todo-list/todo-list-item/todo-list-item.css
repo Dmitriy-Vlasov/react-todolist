@@ -1,0 +1,26 @@
+.todo-list-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.edit-button, .delete-button {
+    width: 40px;
+    height: 40px;
+    margin: 4px;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.important {
+    color: steelblue;
+    font-weight: 900;
+}

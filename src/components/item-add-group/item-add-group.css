@@ -1,0 +1,16 @@
+form {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+}
+
+
+form button {
+   min-width: 15%;
+}
+
+form input.form-control {
+    width: 80%;
+}
